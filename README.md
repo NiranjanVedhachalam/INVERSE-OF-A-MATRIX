@@ -29,7 +29,7 @@ print(result)
 ```
 
 ## Output:
-<img width="1265" height="374" alt="image" src="https://github.com/user-attachments/assets/2866d4f3-dd49-40db-ae80-28a0568ada74" />
+<img width="1497" height="970" alt="Screenshot 2025-08-25 230633" src="https://github.com/user-attachments/assets/5e143f7a-f49b-47cd-bca2-b99b0195365c" />
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
