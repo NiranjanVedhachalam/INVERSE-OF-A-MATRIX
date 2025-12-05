@@ -24,8 +24,7 @@ import numpy as np
 a=np.array([[6,2,3],[3,1,1],[10,3,4]])
 result=np.linalg.inv(a)
 print(result)
-#Developed by: NIRANJAN V
-#RegisterNumber: 212224110042
+
 ```
 
 ## Output:
